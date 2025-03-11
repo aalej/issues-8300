@@ -1,3 +1,11 @@
+# Repro for issue 8300
+
+## Versions
+
+firebase-tools: v13.33.0<br>
+python: Python 3.12.4<br>
+
+```
 Google Cloud SDK 514.0.0
 beta 2025.03.07
 bq 2.1.14
@@ -6,6 +14,7 @@ cloud-firestore-emulator 1.19.9
 core 2025.03.07
 gcloud-crc32c 1.0.0
 gsutil 5.33
+```
 
 ## Steps to reproduce
 
